@@ -1,5 +1,8 @@
 _repo: The-Merchant-Prince-of-Cornville-A-Comedy_54014
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54014-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Gross, Samuel Eberly
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47670
 description: The play on which Rostand's "Cyrano de Bergerac" was said to be based.
   The charge of plagiarism was upheld by a United States court.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54014#The-Merchant-Prince-of-Cornville-A-Comedy
 gutenberg_issued: '2017-01-22'
 gutenberg_type: Text
 identifiers:
